@@ -5,4 +5,4 @@ Feel free to use this dataset, but be sure to mention contributors.
 
 Best regards, 
 
-p.s. we will edit this file after publication.
+p.s. we will edit README.md after publication.
